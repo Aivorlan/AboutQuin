@@ -1,4 +1,4 @@
-# About Me app
+# Portfolio
 This project briefly outlines how to generate an effective README.md
 ## Description
 This project explains a little about me along with portfolio of some of my work and a contact form to reach me!

@@ -7,7 +7,7 @@ HTML and CSS
 ## Questions
 If you have any questions, please feel free to contact me below.
 
-<a href='https://aivorlan.github.io/AboutQuin/'>Click Here to visit deployed app</a>
+<a href='https://aivorlan.github.io/Portfolio/'>Click Here to visit deployed app</a>
 <br><img src='DeployedPreview1.png'>
 <br><img src='DeployedPreview2.png'>
 <br><a href='https://github.com/Aivorlan'>Github Profile: Aivorlan</a>
